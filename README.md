@@ -3,7 +3,7 @@
 ### About Me:</b>
 
 - **Tech Xplorer**  </br>
-- currently, learning and implementing PHP and Mongodb.
+- currently, learning and implementing PHP and MongoDB.
 - looking to contribute to open-source projects.
 - working on Networking and IOT projects.
 
